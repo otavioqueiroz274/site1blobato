@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+padding: 0;
+}
+:root{
+
+}
+.cabecalho{
+background-color: aliceblue;
+}
+
+.corpo{
+background-color: aliceblue;
+}
+
+
+.footer{
+ background-color: black;
+
+}
