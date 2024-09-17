@@ -17,5 +17,27 @@ background-color: aliceblue;
 
 .footer{
  background-color: black;
+ padding: 89px;
 
+ 
+
+ 
+}
+.boton{
+    position: fixed;
+    top: 20px;
+    left 20px;
+    padding: 10px 20px;
+    background-color: aliceblue;
+    color: black;
+    text-decoration: none;
+    border-color: aliceblue;
+
+}
+.boton:hover{
+    background:linear-gradient(to right,#afc4ca,#880404,#000000);
+
+}
+.boton:active{
+    font-size: 15px;
 }
